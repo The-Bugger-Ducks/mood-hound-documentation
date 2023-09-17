@@ -70,6 +70,17 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 
 </div>
 
+## 🐞 Métricas de análise estática do código
+| Modalidade                              | Repositório web | Repositório back | Repositório nlp |
+|:---------------------------------------:|:---------------:|:----------------:|:---------------:|
+| Blocker, Critical, Major e Minor Issues |    |    |    |
+| Bugs                                    |    |    |    |
+| Vulnerabilities                         |    |    |    |
+| Security Review                         |    |    |    | 
+| Duplicidade de Código                   | -% | -% | -% | 
+| Quality Gate                            |    |    |    | 
+
+			
 <span id="links">
     
 ## :link: Links úteis
