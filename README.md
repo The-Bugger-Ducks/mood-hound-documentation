@@ -9,7 +9,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Para início do desenvolvimento de um aplicativo para gerenciamento de parcerias (onde administradores cadastram parcerias em potencial e atualizam suas informações), nesta primeira sprint, tendo em mente o MVP, o time trabalhou nas funcionalidades mais valiosas, como o fluxo de parcerias (criação, listagem, edição e exclusão) e a manipulação de anotações de parceria (com sua listagem, criação e edição), além de login de usuários.
+Para início do desenvolvimento de uma aplicação para a visualização da proeminência de temas ao classificar as experiências de usuários a partir de seus comentários, nesta primeira sprint, tendo em mente o MVP, o time trabalhou nas funcionalidades mais valiosas, como a captura dos dados a partir da base de comentários fornecida, a limpeza desses dados, a formatação desses comentários e então seu armazenamento após o processamento. Houve também o desenvolvimento de uma interface web aonde há a autenticação e autorização de usuários, assim como o motor de busca para pesquisa dos comentários.
 
 <span id="objetivos">
     
@@ -28,7 +28,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ## 📲 Entregas
 Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/mood-hound-documentation#backlogs).
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para um aplicativo em React Native e com as devidas integrações das funcionalidades acordadas para esta sprint.
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para uma aplicação em React e com as devidas integrações das funcionalidades acordadas para esta sprint.
 
 ### RF 01: Processamento de dados
 
@@ -77,6 +77,6 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 - Tags geradas em cada repositório que simbolizam o fim da 1ª sprint:
   - Repositório da aplicação: [clique aqui para acessar "mood-hound-web"](https://github.com/The-Bugger-Ducks/mood-hound-web)
   - Repositório da API: [clique aqui para acessar "mood-hound-back"](https://github.com/The-Bugger-Ducks/mood-hound-back)
-  - Repositório de PLN: [clique aqui para acessar "mood-hound-nlpk"](https://github.com/The-Bugger-Ducks/mood-hound-nlpk)
+  - Repositório de PLN: [clique aqui para acessar "mood-hound-nlp"](https://github.com/The-Bugger-Ducks/mood-hound-nlp)
 
 → [Voltar ao topo](#topo)
