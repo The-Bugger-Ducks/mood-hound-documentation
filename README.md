@@ -36,7 +36,7 @@ O processamento dos dados consiste na análise dos textos fornecidos para que se
 
 ### RF 02: Classificação de temas
 
-A classificação de temas, no contexto do processamento de linguagem natural (PLN), refere-se a outra tarefa fundamental em que um sistema de PLN atribui automaticamente uma categoria ou rótulo a um pedaço de texto com base no conteúdo e no significado desse texto, que representa assunto ou tema principal abordado no texto. Nesse projeto, os temas encontrados para as classificações são oriundos do exercício de processamento de dados, onde a equipe apurou as principais categorias citadas nos comentários com análise das frases e palavras encontradas e agrupando-as de acordo com as suas similaridades, seja de acordo com o atributos, qualidade, satisfação e etc., agrupando também entre negativas, positivas e neutras.
+A classificação de temas, no contexto do processamento de linguagem natural (PLN), refere-se a tarefa de atribuir automaticamente um rótulo a um pedaço de texto com base em seu conteúdo e significado, assim extraindo o tema principal abordado. Nesse projeto, os temas encontrados para as classificações são oriundos do exercício de processamento de dados, onde a equipe apurou as principais categorias citadas nos comentários com análise das frases e palavras levando em conta atributos do produto, serviço e processo, além de agrupar as avaliações também em negativas, positivas e neutras.
 
 ### RF 05: Motor de busca
 
@@ -74,12 +74,12 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 
 |               Modalidade                | Repositório web | Repositório back | Repositório nlp |
 | :-------------------------------------: | :-------------: | :--------------: | :-------------: |
-| Blocker, Critical, Major e Minor Issues |                 |                  |                 |
-|                  Bugs                   |                 |                  |                 |
-|             Vulnerabilities             |                 |                  |                 |
-|             Security Review             |                 |                  |                 |
-|          Duplicidade de Código          |       -%        |        -%        |       -%        |
-|              Quality Gate               |                 |                  |                 |
+| Blocker, Critical, Major e Minor Issues |         0        |         0         |                 |
+|                  Bugs                   |         0        |         0         |                 |
+|             Vulnerabilities             |         0        |         0         |                 |
+|             Security Review             |         0        |         0         |                 |
+|          Duplicidade de Código          |       -%         |        0.0%       |       -%        |
+|              Quality Gate               |<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|                  |                 |
 
 <span id="links">
     
