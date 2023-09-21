@@ -1,9 +1,7 @@
-<h1 align="center"> 
-    <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/200d3697-0b1e-4fc4-91a6-9056106039fe" alt="Header Mood Hound"/>
-</h1>
+<h1 align="center"><img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/200d3697-0b1e-4fc4-91a6-9056106039fe" alt="Header Mood Hound"/></h1>
 
-<span id="topo">
 <p align="center">
+    <span id="topo">
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
@@ -14,7 +12,7 @@
 
 ## :bookmark_tabs: Sobre o projeto
 
-A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi desenvolvido um dashboard que expõe os resultados obtidos através de uma IA (inteligência artifical) desenvolvida através de processamento de linguaem natural, que classifica as experiências de usuários a partir de comentários feitos por eles. Dessa forma, são gerados tópicos de temas sendo mais comentados, análise de sentimento dos clientes e também pesquisas por palavras chaves de comentários.
+A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi desenvolvido um dashboard que expõe os resultados obtidos através de uma IA (inteligência artifical) desenvolvida através de processamento de linguagem natural, que classifica as experiências de usuários a partir de comentários feitos por eles. Dessa forma, são gerados tópicos de temas sendo mais comentados, análise de sentimento dos clientes e também pesquisas por palavras chaves de comentários.
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos._
 
