@@ -35,9 +35,9 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 ## :dart: Backlogs, Épicos & User Stories
 
 <div align="center">
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/261af23b-f875-4d44-9390-fafc8ba9a554" alt="PRODUCT BACKLOG" /> 
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/129ef5f9-17e0-4223-a936-19010bd0a894" alt="SPRINT BACKLOG" /> 
-   <!-- <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/3a54cca2-45ec-4424-8b07-e1c986e4e760" alt="USER STORIES" /> -->
+   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c5e076ff-a484-4371-922b-dd16dc8a721e" alt="PRODUCT BACKLOG" /> 
+   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/d39243a0-4a16-4f1d-ba34-e5b54f6f8c3f" alt="SPRINT BACKLOG" /> 
+   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/ec0fe387-2ea3-4166-b8e9-03c803eaf07a" alt="USER STORIES" />
 </div>
 
 → [Voltar ao topo](#topo)
@@ -66,7 +66,8 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=swagger&logoColor=3A5F0B" alt="Swagger" /> 
 <img src="https://img.shields.io/badge/python-CED4DA?style=for-the-badge&logo=python&logoColor=3670A0" alt="Python" /> 
 <img src="https://img.shields.io/badge/Nltk-CED4DA?style=for-the-badge&logo=nltk&logoColor=6F8FAF" alt="NLTK" /> 
-<img src="https://img.shields.io/badge/Spacy-CED4DA?style=for-the-badge&logo=spacy&logoColor=0096FF" alt="Spacy" /> 
+<img src="https://img.shields.io/badge/Spacy-CED4DA?style=for-the-badge&logo=spacy&logoColor=0096FF" alt="Spacy" />
+<img src="https://img.shields.io/badge/SonarQube-CED4DA?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
 <img src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853" alt="Google Sheets" /> 
