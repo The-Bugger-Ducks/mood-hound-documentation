@@ -32,19 +32,19 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
 ### RF 01: Processamento de dados
 
-[inserir descrição da atividade]
+Sendo um processo fundamental para a preparação dos dados para maiores manuseios, o processamento dos dados consiste na análise dos textos fornecidos nos comentários de clientes sobre produtos, nos quais o processamento de linguagem natural (PLN) realiza um insight desses dados, fazendo que o acesso às informações extraídas possibilite o estudo e maiores compreensões das informações que possuímos.
 
 ### RF 02: Classificação de temas
 
-[inserir descrição da atividade]
+A classificação de temas, no contexto do processamento de linguagem natural (PLN), refere-se a outra tarefa fundamental em que um sistema de PLN atribui automaticamente uma categoria ou rótulo a um pedaço de texto com base no conteúdo e no significado desse texto. Essa categoria ou “rótulo” representa o tópico, assunto ou tema principal abordado no texto. A classificação de temas é uma forma de análise de texto que ajuda a organizar e categorizar grandes volumes de informações textuais de maneira mais eficiente e automatizada.
 
 ### RF 05: Motor de busca
 
-[inserir descrição da atividade]
+Um motor de busca, também conhecido como mecanismo de busca ou buscador, é um sistema de software projetado para ajudar os usuários a encontrar informações. O objetivo principal de um motor de busca é permitir que os usuários localizem rapidamente conteúdo relevante com base em palavras-chave, frases ou consultas de pesquisa. Nesse projeto ele está sendo utilizado para pesquisa de usuários e também de palavras-chave em comentários realizados.
 
 ### RF 06: CRUD de usuários
 
-[inserir descrição da atividade]
+Este requisito se trata do cadastro, listagem, edição e exclusão de usuários, onde, para isso, foi desenvolvido um fluxo básico de login e o acesso ao app, permitindo todas essas ações pelo usuário logado. A criação de contas, bem como outras ações relacionadas a contas de usuário serão desenvolvidas em próximas sprints, ao passo que toda a manipulação de parcerias, a grosso modo, já está estruturada e em pleno funcionamento.
 
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
@@ -71,16 +71,16 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 </div>
 
 ## 🐞 Métricas de análise estática do código
-| Modalidade                              | Repositório web | Repositório back | Repositório nlp |
-|:---------------------------------------:|:---------------:|:----------------:|:---------------:|
-| Blocker, Critical, Major e Minor Issues |    |    |    |
-| Bugs                                    |    |    |    |
-| Vulnerabilities                         |    |    |    |
-| Security Review                         |    |    |    | 
-| Duplicidade de Código                   | -% | -% | -% | 
-| Quality Gate                            |    |    |    | 
 
-			
+|               Modalidade                | Repositório web | Repositório back | Repositório nlp |
+| :-------------------------------------: | :-------------: | :--------------: | :-------------: |
+| Blocker, Critical, Major e Minor Issues |                 |                  |                 |
+|                  Bugs                   |                 |                  |                 |
+|             Vulnerabilities             |                 |                  |                 |
+|             Security Review             |                 |                  |                 |
+|          Duplicidade de Código          |       -%        |        -%        |       -%        |
+|              Quality Gate               |                 |                  |                 |
+
 <span id="links">
     
 ## :link: Links úteis
