@@ -56,7 +56,8 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/material_ui-CED4DA.svg?style=for-the-badge&logo=material-ui&logoColor=1F51FF" alt="Material UI" />
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React" /> 
 <img src="https://img.shields.io/badge/HTML-CED4DA?style=for-the-badge&logo=html&logoColor=23E34F26" alt="HTML" /> 
-<img src="https://img.shields.io/badge/CSS-CED4DA?style=for-the-badge&logo=css&logoColor=231572B6" alt="CSS" /> 
+<img src="https://img.shields.io/badge/CSS-CED4DA?style=for-the-badge&logo=css&logoColor=231572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/Axios-CED4DA?style=for-the-badge&logo=axios&logoColor=5A29E4" alt="CSS" /> 
 <img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="NestJs" />  
 <img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="PostgreSQL" />  
 <img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Prisma" /> 
