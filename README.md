@@ -32,19 +32,19 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
 ### RF 01: Processamento de dados
 
-Sendo um processo fundamental para a preparação dos dados para maiores manuseios, o processamento dos dados consiste na análise dos textos fornecidos nos comentários de clientes sobre produtos, nos quais o processamento de linguagem natural (PLN) realiza um insight desses dados, fazendo que o acesso às informações extraídas possibilite o estudo e maiores compreensões das informações que possuímos.
+O processamento dos dados consiste na análise dos textos fornecidos para que sejam extraídas informações que possibilitem o estudo mais aprofundado desses dados. Com isso, nosso time teve como foco, nessa primeira sprint, realizar a captura dos dados disponibilizados (através [deste link](https://github.com/americanas-tech/b2w-reviews01), que foi previamente acordado com o parceiro acadêmico) fazendo também a limpeza que consiste em remover colunas que não serão utilizadas no processo de análise dos dados, mas também houve a limpeza e formatação dos próprios comentários das avaliações, removendo stop words (artigos e preposições) e palavras muito curtas, preparando assim os dados para próximas etapas como a de classificação.
 
 ### RF 02: Classificação de temas
 
-A classificação de temas, no contexto do processamento de linguagem natural (PLN), refere-se a outra tarefa fundamental em que um sistema de PLN atribui automaticamente uma categoria ou rótulo a um pedaço de texto com base no conteúdo e no significado desse texto. Essa categoria ou “rótulo” representa o tópico, assunto ou tema principal abordado no texto. A classificação de temas é uma forma de análise de texto que ajuda a organizar e categorizar grandes volumes de informações textuais de maneira mais eficiente e automatizada.
+A classificação de temas, no contexto do processamento de linguagem natural (PLN), refere-se a outra tarefa fundamental em que um sistema de PLN atribui automaticamente uma categoria ou rótulo a um pedaço de texto com base no conteúdo e no significado desse texto, que representa assunto ou tema principal abordado no texto. Nesse projeto, os temas encontrados para as classificações são oriundos do exercício de processamento de dados, onde a equipe apurou as principais categorias citadas nos comentários com análise das frases e palavras encontradas e agrupando-as de acordo com as suas similaridades, seja de acordo com o atributos, qualidade, satisfação e etc., agrupando também entre negativas, positivas e neutras.
 
 ### RF 05: Motor de busca
 
-Um motor de busca, também conhecido como mecanismo de busca ou buscador, é um sistema de software projetado para ajudar os usuários a encontrar informações. O objetivo principal de um motor de busca é permitir que os usuários localizem rapidamente conteúdo relevante com base em palavras-chave, frases ou consultas de pesquisa. Nesse projeto ele está sendo utilizado para pesquisa de usuários e também de palavras-chave em comentários realizados.
+Um motor de busca, também conhecido como mecanismo de busca ou buscador, é um sistema de software projetado para ajudar os usuários a encontrar informações. Foi desenvolvido pela equipe um motor de busca que permite que os usuários localizem rapidamente conteúdos a partir de palavras-chave que venham a existir em alguns comentários existentes na base de dados que foi previamente processada, classificada e armazenada. Através do que foi desenvolvido, é possível também que um usuário administrador realize pesquisas de usuários.
 
 ### RF 06: CRUD de usuários
 
-Este requisito se trata do cadastro, listagem, edição e exclusão de usuários, onde, para isso, foi desenvolvido um fluxo básico de login e o acesso ao app, permitindo todas essas ações pelo usuário logado. A criação de contas, bem como outras ações relacionadas a contas de usuário serão desenvolvidas em próximas sprints, ao passo que toda a manipulação de parcerias, a grosso modo, já está estruturada e em pleno funcionamento.
+Este requisito se trata do cadastro, listagem, edição e exclusão de usuários, onde, para isso, foi desenvolvido um fluxo básico de login e o acesso ao app, permitindo todas essas ações pelo usuário logado. A criação de contas, bem como outras ações relacionadas a contas de usuário serão desenvolvidas nas próximas sprints, assim como o gerenciamento de permissões dos usuários através de um usuário administrador.
 
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
