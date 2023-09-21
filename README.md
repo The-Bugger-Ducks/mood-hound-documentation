@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/200d3697-0b1e-4fc4-91a6-9056106039fe" alt="Header Mood Hound"/></h1>
+![mood hound header](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/7696facb-0f67-43d3-9a28-e3c4553ec0c8)
 
 <p align="center">
     <span id="topo">
@@ -23,7 +23,7 @@ A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi d
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, back, nlp...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/09/2023 | 🏗️ Em desenvolvimento | Em breve <!-- [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/blob/sprint-01/README.md) -->|
+| 01 | 24/09/2023 | 🏗️ Em desenvolvimento | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-01)|
 | 02 | 15/10/2023 | 🛑 Não iniciado | Em breve |
 | 03 | 05/11/2023 | 🛑 Não iniciado | Em breve |
 | 04 | 26/11/2023 | 🛑 Não iniciado | Em breve |
