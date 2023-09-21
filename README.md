@@ -1,4 +1,6 @@
-<h1 align="center"> 🐶 Mood Hound 🐶 </h1>
+<h1 align="center"> 
+    <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/200d3697-0b1e-4fc4-91a6-9056106039fe" alt="Header Mood Hound"/>
+</h1>
 
 <span id="topo">
 <p align="center">
