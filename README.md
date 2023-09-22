@@ -1,10 +1,12 @@
+<span id="topo">
+
 ![mood hound header](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/7696facb-0f67-43d3-9a28-e3c4553ec0c8)
 
 <p align="center">
-    <span id="topo">
-    <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
-    <a href="#tecnologias">Tecnologias</a>  |  
+    <a href="#sobre">Sobre</a>  &nbsp |&nbsp &nbsp  
+    <a href="#entregas">Entregas</a>  &nbsp |&nbsp &nbsp  
+    <a href="#backlogs">Backlogs, Épicos & User Stories</a> &nbsp |&nbsp &nbsp  
+    <a href="#tecnologias">Tecnologias</a>  &nbsp |&nbsp &nbsp 
     <a href="#equipe">Equipe</a>
 </p>
    
@@ -18,6 +20,10 @@ A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi d
 
 :pushpin: Status do Projeto: **Em desenvolvimento** 🏗️
 
+<br />
+
+<span id="entregas">
+
 ## 🏁 Entregas de Sprints
 
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, back, nlp...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
@@ -30,6 +36,8 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 
 → [Voltar ao topo](#topo)
 
+<br />
+
 <span id="backlogs">
 
 ## :dart: Backlogs, Épicos & User Stories
@@ -41,6 +49,8 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 </div>
 
 → [Voltar ao topo](#topo)
+
+<br />
 
 <span id="tecnologias">
 
@@ -83,6 +93,8 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Google%20Slides-CED4DA?style=for-the-badge&logo=google-slides&logoColor=FBBC04" alt="Google Slides" /> 
     
 → [Voltar ao topo](#topo)
+
+<br />
 
 <span id="equipe">
 
