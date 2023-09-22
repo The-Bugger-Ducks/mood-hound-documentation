@@ -1,15 +1,18 @@
 <span id="topo">
 
-<h1 align="center">Sprint 1: 04/09/2023 a 24/09/2023</h1>
+![mood hound header sprint 1](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8ee60896-5d07-4367-9583-f0d65b6c1f13)
 
 <p align="center">
-    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+    <a href="#objetivos">Objetivos da sprint</a>  &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
+    <a href="#analise">Métricas de análise estática </a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
 
 Para início do desenvolvimento de uma aplicação para a visualização da proeminência de temas ao classificar as experiências de usuários a partir de seus comentários, nesta primeira sprint, tendo em mente o MVP, o time trabalhou nas funcionalidades mais valiosas, como a captura dos dados a partir da base de comentários fornecida, a limpeza desses dados, a formatação desses comentários e então seu armazenamento após o processamento. Houve também o desenvolvimento de uma interface web aonde há a autenticação e autorização de usuários, assim como o motor de busca para pesquisa dos comentários.
+
+<br />
 
 <span id="objetivos">
     
@@ -22,6 +25,8 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 - :heavy_check_mark: **RF 06:** CRUD de usuários
 - :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das entregas
 - :heavy_check_mark: **RNF 09:** Utilização de TypeScript e Python
+
+<br />
 
 <span id="entregas">
         
@@ -56,6 +61,8 @@ Este requisito não funcional se trata da utilização de Typescript e Python, q
 
 → [Voltar ao topo](#topo)
 
+<br />
+
 <span id="metricas">
     
 ## :chart_with_upwards_trend: Métricas do time
@@ -70,18 +77,31 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 
 </div>
 
+<br />
+
+<span id="analise">
+
 ## 🐞 Métricas de análise estática do código
+
+<div align="center">
 
 |               Modalidade                | Repositório web | Repositório back | Repositório nlp |
 | :-------------------------------------: | :-------------: | :--------------: | :-------------: |
 | Blocker, Critical, Major e Minor Issues |         0        |         0         |         0        |
 |                  Bugs                   |         0        |         0         |         0        |
+|              Code Smells                |         2        |         0         |         2        |
 |             Vulnerabilities             |         0        |         0         |         0        |
 |             Security Review             |         0        |         0         |         0        |
 |          Duplicidade de Código          |        0.0%      |        0.0%       |        0.0%      |
-|              Quality Gate               |<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|
+|              Quality Gate               |<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge">|
+
+</div>
+
+**Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes, inicialmente pensamos em 10%.
 
 <span id="links">
+
+<br/>
     
 ## :link: Links úteis
 
