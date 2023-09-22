@@ -74,12 +74,12 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 
 |               Modalidade                | Repositório web | Repositório back | Repositório nlp |
 | :-------------------------------------: | :-------------: | :--------------: | :-------------: |
-| Blocker, Critical, Major e Minor Issues |         0        |         0         |                 |
-|                  Bugs                   |         0        |         0         |                 |
-|             Vulnerabilities             |         0        |         0         |                 |
-|             Security Review             |         0        |         0         |                 |
-|          Duplicidade de Código          |       0.0%         |        0.0%       |       -%        |
-|              Quality Gate               |<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|                 |
+| Blocker, Critical, Major e Minor Issues |         0        |         0         |         0        |
+|                  Bugs                   |         0        |         0         |         0        |
+|             Vulnerabilities             |         0        |         0         |         0        |
+|             Security Review             |         0        |         0         |         0        |
+|          Duplicidade de Código          |        0.0%      |        0.0%       |        0.0%      |
+|              Quality Gate               |<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge=white" alt="Passed Badge">|
 
 <span id="links">
     
