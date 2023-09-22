@@ -18,7 +18,7 @@ A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi d
 
 :pushpin: Status do Projeto: **Em desenvolvimento** 🏗️
 
-### 🏁 Entregas de Sprints
+## 🏁 Entregas de Sprints
 
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, back, nlp...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status | Histórico |
@@ -55,11 +55,15 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/chakra_ui-CED4DA.svg?style=for-the-badge&logo=chakraui&logoColor=234ED1C5" alt="Chakra UI" />
 <img src="https://img.shields.io/badge/material_ui-CED4DA.svg?style=for-the-badge&logo=mui&logoColor=1F51FF" alt="Material UI" />
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React" /> 
+<img src="https://img.shields.io/badge/React_query-CED4DA?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="React Query" /> 
 <img src="https://img.shields.io/badge/HTML-CED4DA?style=for-the-badge&logo=html5&logoColor=23E34F26" alt="HTML" /> 
 <img src="https://img.shields.io/badge/CSS-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/Axios-CED4DA?style=for-the-badge&logo=axios&logoColor=5A29E4" alt="CSS" /> 
+<img src="https://img.shields.io/badge/Axios-CED4DA?style=for-the-badge&logo=axios&logoColor=5A29E4" alt="Axios" />
+<img src="https://img.shields.io/badge/Vite-CED4DA?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" /> 
+<img src="https://img.shields.io/badge/Yarn-CED4DA?style=for-the-badge&logo=yarn&logoColor=000000" alt="Yarn" /> 
 <img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="NestJs" />  
 <img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="PostgreSQL" />  
+<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />  
 <img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Prisma" /> 
 <img src="https://img.shields.io/badge/Docker-CED4DA?style=for-the-badge&logo=docker&logoColor=000080" alt="Docker" /> 
 <img src="https://img.shields.io/badge/Insomnia-CED4DA?style=for-the-badge&logo=insomnia&logoColor=581845" alt="Insomnia" />
@@ -68,10 +72,15 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/python-CED4DA?style=for-the-badge&logo=python&logoColor=3670A0" alt="Python" /> 
 <img src="https://img.shields.io/badge/Nltk-CED4DA?style=for-the-badge&logo=nltk&logoColor=6F8FAF" alt="NLTK" /> 
 <img src="https://img.shields.io/badge/Spacy-CED4DA?style=for-the-badge&logo=spacy&logoColor=0096FF" alt="Spacy" />
+<img src="https://img.shields.io/badge/Sklearn-CED4DA?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Sklearn" />
 <img src="https://img.shields.io/badge/SonarQube-CED4DA?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
+<img src="https://img.shields.io/badge/SonarCloud-CED4DA?style=for-the-badge&logo=sonarcloud&logoColor=3702A" alt="SonarCloud" />
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
+<img src="https://img.shields.io/badge/Slack-CED4DA?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
+<img src="https://img.shields.io/badge/Canva-CED4DA?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" /> 
 <img src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853" alt="Google Sheets" /> 
+<img src="https://img.shields.io/badge/Google%20Slides-CED4DA?style=for-the-badge&logo=google-slides&logoColor=FBBC04" alt="Google Slides" /> 
     
 → [Voltar ao topo](#topo)
 
