@@ -85,19 +85,19 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 
 <div align="center">
 
-|               Modalidade                | Repositório web | Repositório back | Repositório nlp |
-| :-------------------------------------: | :-------------: | :--------------: | :-------------: |
-| Blocker, Critical, Major e Minor Issues |         0        |         0         |         0        |
-|                  Bugs                   |         0        |         0         |         0        |
-|              Code Smells                |         2        |         0         |         2        |
-|             Vulnerabilities             |         0        |         0         |         0        |
-|             Security Review             |         0        |         0         |         0        |
-|          Duplicidade de Código          |        0.0%      |        0.0%       |        0.0%      |
-|              Quality Gate               |<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge">|<img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge">|
+|               Modalidade                |                                                Repositório web                                                |                                               Repositório back                                                |                                                Repositório nlp                                                |
+| :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| Blocker, Critical, Major e Minor Issues |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|                  Bugs                   |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|               Code Smells               |                                                       2                                                       |                                                       0                                                       |                                                       2                                                       |
+|             Vulnerabilities             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|             Security Review             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|          Duplicidade de Código          |                                                     0.0%                                                      |                                                     0.0%                                                      |                                                     0.0%                                                      |
+|              Quality Gate               | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> |
 
 </div>
 
-**Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes, inicialmente pensamos em 10%.
+**Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes, inicialmente pensamos em 40%.Para solucionar os code smells existentes e vitar que esses números aumentem, definiremos para a sprint 02 (e continuaremos implementando nas seguintes sprints) atividades de refatoração para que os débitos técnicos presentes sejam sanados e durante as code reviews, trazer também a correção de pequenos débitos técnicos a fim de evitar maiores dificuldades futuras.
 
 <details>
 <summary>Imagem do resumo das análises do repositório web</summary>
@@ -105,7 +105,7 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 ![sonarqube web quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/13a57cbd-7d9d-48f6-979c-91de96ad56a5)
 ![sonarqube web findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8cb5ca97-bd6e-404a-93c7-8454b71de4b8)
 ![sonarqube web duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/2e22d4fa-b65e-42b6-b5f2-7a4fef9d7e2f)
-    
+
 </details>
 
 <details>
