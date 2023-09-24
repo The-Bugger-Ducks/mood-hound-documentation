@@ -100,7 +100,7 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 **Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes, inicialmente pensamos em 40%.Para solucionar os code smells existentes e vitar que esses números aumentem, definiremos para a sprint 02 (e continuaremos implementando nas seguintes sprints) atividades de refatoração para que os débitos técnicos presentes sejam sanados e durante as code reviews, trazer também a correção de pequenos débitos técnicos a fim de evitar maiores dificuldades futuras.
 
 <details>
-<summary>Imagem do resumo das análises do repositório web</summary>
+<summary>Imagens do resumo das análises do repositório web</summary>
 
 ![sonarqube web quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/13a57cbd-7d9d-48f6-979c-91de96ad56a5)
 ![sonarqube web findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8cb5ca97-bd6e-404a-93c7-8454b71de4b8)
@@ -109,7 +109,7 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 </details>
 
 <details>
-<summary>Imagem do resumo das análises do repositório backend</summary>
+<summary>Imagens do resumo das análises do repositório backend</summary>
 
 ![sonarqube back quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/5af2ab3f-26cd-44aa-bd43-db638c53d8b9)
 ![sonarqube back findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/3da7b269-8a57-4480-8e9a-9ffa4e9ccc79)
@@ -118,7 +118,7 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 </details>
 
 <details>
-<summary>Imagem do resumo das análises do repositório NLP</summary>
+<summary>Imagens do resumo das análises do repositório NLP</summary>
 
 ![sonarqube nlp quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b87ce4b2-3fd6-4d0a-b817-b33283041378)
 ![sonarqube nlp findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/a13901eb-8c72-4b87-8591-484d16c0e214)
