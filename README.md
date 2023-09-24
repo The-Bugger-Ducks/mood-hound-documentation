@@ -99,6 +99,33 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 
 **Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes, inicialmente pensamos em 10%.
 
+<details>
+<summary>Imagem do resumo das análises do repositório web</summary>
+
+![sonarqube web quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/13a57cbd-7d9d-48f6-979c-91de96ad56a5)
+![sonarqube web findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8cb5ca97-bd6e-404a-93c7-8454b71de4b8)
+![sonarqube web duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/2e22d4fa-b65e-42b6-b5f2-7a4fef9d7e2f)
+    
+</details>
+
+<details>
+<summary>Imagem do resumo das análises do repositório backend</summary>
+
+![sonarqube back quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/5af2ab3f-26cd-44aa-bd43-db638c53d8b9)
+![sonarqube back findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/3da7b269-8a57-4480-8e9a-9ffa4e9ccc79)
+![sonarqube back duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/bcdfa0ee-3e4c-4538-8bb4-debaeda13a96)
+
+</details>
+
+<details>
+<summary>Imagem do resumo das análises do repositório NLP</summary>
+
+![sonarqube nlp quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b87ce4b2-3fd6-4d0a-b817-b33283041378)
+![sonarqube nlp findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/a13901eb-8c72-4b87-8591-484d16c0e214)
+![sonarqube nlp duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b00d0800-15e0-4c29-bba8-1606bc100320)
+
+</details>
+
 → [Voltar ao topo](#topo)
 
 <span id="links">
