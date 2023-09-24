@@ -71,11 +71,11 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
     
 <div align="center">
 
-[inserir imagem do burndown]
-
-<!-- <img src="https://user-images.githubusercontent.com/79321198/235674242-e743ebe7-1de7-410e-98c2-4df5144b5fee.png" alt="Gráfico Burndown" /> -->
+<img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/97e96bb5-aa59-497a-b439-f3e045dab9f5" alt="Gráfico Burndown" />
 
 </div>
+
+→ [Voltar ao topo](#topo)
 
 <br />
 
@@ -98,6 +98,8 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 </div>
 
 **Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes, inicialmente pensamos em 10%.
+
+→ [Voltar ao topo](#topo)
 
 <span id="links">
 
