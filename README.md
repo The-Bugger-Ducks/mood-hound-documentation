@@ -10,7 +10,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Para início do desenvolvimento de uma aplicação para a visualização da proeminência de temas ao classificar as experiências de usuários a partir de seus comentários, nesta primeira sprint, tendo em mente o MVP, o time trabalhou nas funcionalidades mais valiosas, como a captura dos dados a partir da base de comentários fornecida, a limpeza desses dados, a formatação desses comentários e então seu armazenamento após o processamento. Houve também o desenvolvimento de uma interface web aonde há a autenticação e autorização de usuários, assim como o motor de busca para pesquisa dos comentários.
+Para o início do desenvolvimento de uma aplicação para a visualização da proeminência de temas ao classificar as experiências de usuários a partir de suas avaliações, nesta primeira sprint, tendo em mente o MVP, o time trabalhou nas funcionalidades mais valiosas, como a captura dos dados (a partir da base de comentários fornecida), a limpeza e formatação desses dados, e então seu armazenamento após o processamento. Na "frente web" tem-se o desenvolvimento de uma interface com a integração de autenticação e autorização de usuários, bem como o motor de busca para pesquisa em comentários.
 
 <br />
 
@@ -24,28 +24,28 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 - :heavy_check_mark: **RF 05:** Motor de busca
 - :heavy_check_mark: **RF 06:** CRUD de usuários
 - :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das entregas
-- :heavy_check_mark: **RNF 09:** Utilização de TypeScript e Python
+- :heavy_check_mark: **RNF 09:** Utilização de Typescript e Python
 
 <br />
 
 <span id="entregas">
         
 ## 📲 Entregas
-Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/mood-hound-documentation#backlogs).
+Para as entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/mood-hound-documentation#backlogs).
 
 Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para uma aplicação em React e com as devidas integrações das funcionalidades acordadas para esta sprint.
 
 ### RF 01: Processamento de dados
 
-O processamento dos dados consiste na análise dos textos fornecidos para que sejam extraídas informações que possibilitem o estudo mais aprofundado desses dados. Com isso, nosso time teve como foco, nessa primeira sprint, realizar a captura dos dados disponibilizados (através [deste link](https://github.com/americanas-tech/b2w-reviews01), que foi previamente acordado com o parceiro acadêmico) fazendo também a limpeza que consiste em remover colunas que não serão utilizadas no processo de análise dos dados, mas também houve a limpeza e formatação dos próprios comentários das avaliações, removendo stop words (artigos e preposições) e palavras muito curtas, preparando assim os dados para próximas etapas como a de classificação.
+O processamento dos dados consiste na análise dos textos fornecidos para que sejam extraídas informações que possibilitem o estudo mais aprofundado desses dados. Com isso, nosso time teve como foco, nessa primeira sprint, realizar a captura dos dados disponibilizados (através [deste link](https://github.com/americanas-tech/b2w-reviews01), que foi previamente acordado com o parceiro acadêmico), fazendo a limpeza destes dados (removendo colunas que não serão utilizadas no processo de análise dos dados), mas também aplicando limpeza e formatação nos comentários das avaliações, removendo stop words (artigos e preposições) e palavras muito curtas, além de realizar outros passos de processamento como "lematização", "vetorização" e etc, preparando assim os dados para próximas etapas como a de classificação.
 
 ### RF 02: Classificação de temas
 
-A classificação de temas, no contexto do processamento de linguagem natural (PLN), refere-se a tarefa de atribuir automaticamente um rótulo a um pedaço de texto com base em seu conteúdo e significado, assim extraindo o tema principal abordado. Nesse projeto, os temas encontrados para as classificações são oriundos do exercício de processamento de dados, onde a equipe apurou as principais categorias citadas nos comentários com análise das frases e palavras levando em conta atributos do produto, serviço e processo, além de agrupar as avaliações também em negativas, positivas e neutras.
+A classificação de temas, no contexto do processamento de linguagem natural (PLN), refere-se a tarefa de atribuir automaticamente um rótulo a um pedaço de texto com base em seu conteúdo e significado, assim extraindo o tema principal abordado. Nesse projeto, os temas encontrados para as classificações são oriundos do exercício de processamento de dados, onde a equipe apurou as principais categorias citadas nos comentários com análise das frases e palavras levando em conta atributos do produto, serviço e processos operacionais, além de agrupar as avaliações também por sentimento, que pode ser negativo, positivo ou neutro, baseado nas "estrelas" que a avaliação tem.
 
 ### RF 05: Motor de busca
 
-Um motor de busca, também conhecido como mecanismo de busca ou buscador, é um sistema de software projetado para ajudar os usuários a encontrar informações. Foi desenvolvido pela equipe um motor de busca que permite que os usuários localizem rapidamente conteúdos a partir de palavras-chave que venham a existir em alguns comentários existentes na base de dados que foi previamente processada, classificada e armazenada. Através do que foi desenvolvido, é possível também que um usuário administrador realize pesquisas de usuários.
+Um motor de busca, também conhecido como mecanismo de busca ou buscador, é um sistema de software projetado para ajudar os usuários a encontrar informações. Foi desenvolvido pela equipe um motor de busca que permite que os usuários localizem rapidamente conteúdos a partir de palavras-chave que venham a existir nos comentários disponíveis previamente processados, classificados e armazenados. Através do que foi desenvolvido, é possível também que um usuário administrador realize pesquisas de usuários.
 
 ### RF 06: CRUD de usuários
 
@@ -55,9 +55,9 @@ Este requisito se trata do cadastro, listagem, edição e exclusão de usuários
 
 Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/mood-hound-documentation).
 
-### RNF 09: Utilzação de TypeScript e Python
+### RNF 09: Utilzação de Typescript e Python
 
-Este requisito não funcional se trata da utilização de Typescript e Python, que foi satisfeito ainda nesta sprint, dado que tanto no servidor, feito com Node, foi utilizado o Typescript quanto na aplicação web, feita com React. Python foi utilizado para as práticas de processamento de linguagem natural, em especial, com o uso das bibliotecas NLTK e Spacy.
+Este requisito não funcional se trata da utilização de Typescript e Python, que foi satisfeito ainda nesta sprint, dado que tanto no servidor, feito com Node, foi utilizado o Typescript quanto na aplicação web, feita com React. Python foi utilizado para as práticas de processamento de linguagem natural, em especial, com o uso das bibliotecas Pandas e NLTK.
 
 → [Voltar ao topo](#topo)
 
@@ -66,7 +66,7 @@ Este requisito não funcional se trata da utilização de Typescript e Python, q
 <span id="metricas">
     
 ## :chart_with_upwards_trend: Métricas do time
-Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsabilizou pela criação da interface e integrações das funcionalidades e o backend pela estruturação do banco de dados e rotas a serem consumidas. 
+Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp" teve como foco o processamento dos dados disponibilizados, bem como sua classificação e armazenamento no banco, enquanto que a "frente backend" se ocupou com tarefas acerca de autenticação, autorização e CRUD de usuários, além de, claro, manipulação dos comentários previamente classificados no banco. Já a "frente web" ficou responsável pela integração de tais funcionalidades.  
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
@@ -97,7 +97,7 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 
 </div>
 
-**Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes, inicialmente pensamos em 40%.Para solucionar os code smells existentes e vitar que esses números aumentem, definiremos para a sprint 02 (e continuaremos implementando nas seguintes sprints) atividades de refatoração para que os débitos técnicos presentes sejam sanados e durante as code reviews, trazer também a correção de pequenos débitos técnicos a fim de evitar maiores dificuldades futuras.
+**Estratégias de correção:** Aos itens apresentados, a estratégia de correção aderida será a inicialização de testes unitários para cada um dos repositórios na sprint 02. Será necessário também, mediante a implementação dos testes unitários, determinar uma porcentagem de cobertura de testes (inicialmente pensamos em 40%). Para solucionar os code smells existentes e evitar que esses números aumentem, definiremos para a sprint 02 (e continuaremos implementando nas seguintes sprints) atividades de refatoração para que os débitos técnicos presentes sejam sanados e, durante as code reviews, trazer também a correção de pequenos débitos técnicos a fim de evitar maiores dificuldades futuras.
 
 <details>
 <summary>Imagens do resumo das análises do repositório web</summary>
