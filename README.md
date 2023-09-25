@@ -51,7 +51,7 @@ Um motor de busca, também conhecido como mecanismo de busca ou buscador, é um 
 
 Este requisito se trata do cadastro, listagem, edição e exclusão de usuários, onde, para isso, foi desenvolvido um fluxo básico de login e o acesso ao app, permitindo todas essas ações pelo usuário logado. A criação de contas, bem como outras ações relacionadas a contas de usuário serão desenvolvidas nas próximas sprints, assim como o gerenciamento de permissões dos usuários através de um usuário administrador.
 
-### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
+### RNF 08: Documentação no GitHub
 
 Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/mood-hound-documentation).
 
