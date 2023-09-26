@@ -88,12 +88,12 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 |               Modalidade                |                                                Repositório web                                                |                                               Repositório back                                                |                                                Repositório nlp                                                |
 | :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 | Blocker, Critical, Major e Minor Issues |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|                  Bugs                   |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|               Code Smells               |                                                       2                                                       |                                                       0                                                       |                                                       2                                                       |
+|                  Bugs                   |                                                       0                                                       |                                                       1                                                       |                                                       0                                                       |
+|               Code Smells               |                                                       25                                                       |                                                       2                                                       |                                                       0                                                       |
 |             Vulnerabilities             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|             Security Review             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|             Security Review             |                                                       0                                                       |                                                       2                                                       |                                                       0                                                       |
 |          Duplicidade de Código          |                                                     0.0%                                                      |                                                     0.0%                                                      |                                                     0.0%                                                      |
-|              Quality Gate               | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> |
+|              Quality Gate               | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> |
 
 </div>
 
@@ -103,17 +103,17 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <summary>Imagens do resumo das análises do repositório web</summary>
 
 ![sonarqube web quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/13a57cbd-7d9d-48f6-979c-91de96ad56a5)
-![sonarqube web findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8cb5ca97-bd6e-404a-93c7-8454b71de4b8)
-![sonarqube web duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/2e22d4fa-b65e-42b6-b5f2-7a4fef9d7e2f)
+![sonarqube web findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/1e18698d-c683-4471-9e18-327012e3555a)
+![sonarqube web duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b23f5a1c-9a62-4484-9049-5eac8fb26ebb)
 
 </details>
 
 <details>
 <summary>Imagens do resumo das análises do repositório backend</summary>
 
-![sonarqube back quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/5af2ab3f-26cd-44aa-bd43-db638c53d8b9)
-![sonarqube back findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/3da7b269-8a57-4480-8e9a-9ffa4e9ccc79)
-![sonarqube back duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/bcdfa0ee-3e4c-4538-8bb4-debaeda13a96)
+![sonarqube back quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/aa986733-34d5-426d-b226-3124f71a9669)
+![sonarqube back findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c901297b-d013-4bc7-a174-c1959556de14)
+![sonarqube back duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/170f0a75-a40d-4b00-bb8d-96fa28fca891)
 
 </details>
 
@@ -121,8 +121,8 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <summary>Imagens do resumo das análises do repositório NLP</summary>
 
 ![sonarqube nlp quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b87ce4b2-3fd6-4d0a-b817-b33283041378)
-![sonarqube nlp findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/a13901eb-8c72-4b87-8591-484d16c0e214)
-![sonarqube nlp duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b00d0800-15e0-4c29-bba8-1606bc100320)
+![sonarqube nlp findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/0e9d4bca-8754-437b-a6aa-404fe82e503b)
+![sonarqube nlp duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c5d76b0f-05b9-4f43-908f-7554a17687cc)
 
 </details>
 
