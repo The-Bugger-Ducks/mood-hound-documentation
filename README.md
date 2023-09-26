@@ -9,6 +9,8 @@
     <a href="#tecnologias">Tecnologias</a>  &nbsp |&nbsp &nbsp 
     <a href="#equipe">Equipe</a>
 </p>
+
+<br />
    
 <span id="sobre">
 
@@ -29,8 +31,8 @@ A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi d
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, back, nlp...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/09/2023 | 🏗️ Em desenvolvimento | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-01)|
-| 02 | 15/10/2023 | 🛑 Não iniciado | Em breve |
+| 01 | 24/09/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-01)|
+| 02 | 15/10/2023 | 🏗️ Em desenvolvimento | Em breve |
 | 03 | 05/11/2023 | 🛑 Não iniciado | Em breve |
 | 04 | 26/11/2023 | 🛑 Não iniciado | Em breve |
 
