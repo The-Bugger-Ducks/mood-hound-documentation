@@ -1,114 +1,140 @@
 <span id="topo">
 
-![mood hound header](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/7696facb-0f67-43d3-9a28-e3c4553ec0c8)
+![mood hound header sprint 1](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8ee60896-5d07-4367-9583-f0d65b6c1f13)
 
 <p align="center">
-    <a href="#sobre">Sobre</a>  &nbsp |&nbsp &nbsp  
-    <a href="#entregas">Entregas</a>  &nbsp |&nbsp &nbsp  
-    <a href="#backlogs">Backlogs, Épicos & User Stories</a> &nbsp |&nbsp &nbsp  
-    <a href="#tecnologias">Tecnologias</a>  &nbsp |&nbsp &nbsp 
-    <a href="#equipe">Equipe</a>
+    <a href="#objetivos">Objetivos da sprint</a>  &nbsp |&nbsp &nbsp
+    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
+    <a href="#analise">Métricas de análise estática </a> &nbsp |&nbsp &nbsp
+    <a href="#links">Links úteis</a>
 </p>
 
+[inserir objetivo da sprint]
+
 <br />
-   
-<span id="sobre">
 
-## :bookmark_tabs: Sobre o projeto
+<span id="objetivos">
+    
+## :dart: Objetivos da Sprint
+Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 
-A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi desenvolvido um dashboard que expõe os resultados obtidos através de uma IA (inteligência artifical) desenvolvida através de processamento de linguagem natural, que classifica as experiências de usuários a partir de comentários feitos por eles. Dessa forma, são gerados tópicos de temas sendo mais comentados, análise de sentimento dos clientes e também pesquisas por palavras chaves de comentários.
-
-> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos._
-
-:pushpin: Status do Projeto: **Em desenvolvimento** 🏗️
+- :heavy_check_mark: **RF 03:** Análise de sentimentos
+- :heavy_check_mark: **RF 03:** Dashboard
+- :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das entregas
+- :heavy_check_mark: **RNF 09:** Utilização de Typescript e Python
 
 <br />
 
 <span id="entregas">
+        
+## 📲 Entregas
+Para as entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/mood-hound-documentation#backlogs).
 
-## 🏁 Entregas de Sprints
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para uma aplicação em React e com as devidas integrações das funcionalidades acordadas para esta sprint.
 
-Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, back, nlp...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
-| Sprint | Previsão de entrega | Status | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/09/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-01)|
-| 02 | 15/10/2023 | 🏗️ Em desenvolvimento | Em breve |
-| 03 | 05/11/2023 | 🛑 Não iniciado | Em breve |
-| 04 | 26/11/2023 | 🛑 Não iniciado | Em breve |
+### RF 03: Análise de sentimentos
+
+[inserir descrição da atividade]
+
+### RF 04: Dashboard
+
+[inserir descrição da atividade]
+
+### RNF 08: Documentação no GitHub
+
+Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/mood-hound-documentation).
+
+### RNF 09: Utilzação de Typescript e Python
+
+Este requisito não funcional se trata da utilização de Typescript e Python, que foi satisfeito ainda nesta sprint, dado que tanto no servidor, feito com Node, foi utilizado o Typescript quanto na aplicação web, feita com React. Python foi utilizado para as práticas de processamento de linguagem natural, em especial, com o uso das bibliotecas Pandas e NLTK.
 
 → [Voltar ao topo](#topo)
 
 <br />
 
-<span id="backlogs">
-
-## :dart: Backlogs, Épicos & User Stories
-
+<span id="metricas">
+    
+## :chart_with_upwards_trend: Métricas do time
+Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp" teve como foco o processamento dos dados disponibilizados, bem como sua classificação e armazenamento no banco, enquanto que a "frente backend" se ocupou com tarefas acerca de autenticação, autorização e CRUD de usuários, além de, claro, manipulação dos comentários previamente classificados no banco. Já a "frente web" ficou responsável pela integração de tais funcionalidades.  
+- Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
+    
 <div align="center">
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c5e076ff-a484-4371-922b-dd16dc8a721e" alt="PRODUCT BACKLOG" /> 
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/d39243a0-4a16-4f1d-ba34-e5b54f6f8c3f" alt="SPRINT BACKLOG" /> 
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/ec0fe387-2ea3-4166-b8e9-03c803eaf07a" alt="USER STORIES" />
+
+[inserir gráfico do burndown]
+
+<!-- <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/97e96bb5-aa59-497a-b439-f3e045dab9f5" alt="Gráfico Burndown" /> -->
+
 </div>
 
 → [Voltar ao topo](#topo)
 
 <br />
 
-<span id="tecnologias">
+<span id="analise">
 
-## 🛠️ Tecnologias
+## 🐞 Métricas de análise estática do código
 
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
+<div align="center">
 
-<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
-<img src="https://img.shields.io/badge/Node.Js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=3A5F0B" alt="Node.js" /> 
-<img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
-<img src="https://img.shields.io/badge/Styled_Components-CED4DA?style=for-the-badge&logo=styled-components&logoColor=ff309f" alt="Styled Components" /> 
-<img src="https://img.shields.io/badge/chakra_ui-CED4DA.svg?style=for-the-badge&logo=chakraui&logoColor=234ED1C5" alt="Chakra UI" />
-<img src="https://img.shields.io/badge/material_ui-CED4DA.svg?style=for-the-badge&logo=mui&logoColor=1F51FF" alt="Material UI" />
-<img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React" /> 
-<img src="https://img.shields.io/badge/React_query-CED4DA?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="React Query" /> 
-<img src="https://img.shields.io/badge/HTML-CED4DA?style=for-the-badge&logo=html5&logoColor=23E34F26" alt="HTML" /> 
-<img src="https://img.shields.io/badge/CSS-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/Axios-CED4DA?style=for-the-badge&logo=axios&logoColor=5A29E4" alt="Axios" />
-<img src="https://img.shields.io/badge/Vite-CED4DA?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" /> 
-<img src="https://img.shields.io/badge/Yarn-CED4DA?style=for-the-badge&logo=yarn&logoColor=000000" alt="Yarn" /> 
-<img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="NestJs" />  
-<img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="PostgreSQL" />  
-<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />  
-<img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Prisma" /> 
-<img src="https://img.shields.io/badge/Docker-CED4DA?style=for-the-badge&logo=docker&logoColor=000080" alt="Docker" /> 
-<img src="https://img.shields.io/badge/Insomnia-CED4DA?style=for-the-badge&logo=insomnia&logoColor=581845" alt="Insomnia" />
-<img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
-<img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=swagger&logoColor=3A5F0B" alt="Swagger" /> 
-<img src="https://img.shields.io/badge/python-CED4DA?style=for-the-badge&logo=python&logoColor=3670A0" alt="Python" /> 
-<img src="https://img.shields.io/badge/Nltk-CED4DA?style=for-the-badge&logo=nltk&logoColor=6F8FAF" alt="NLTK" /> 
-<img src="https://img.shields.io/badge/Spacy-CED4DA?style=for-the-badge&logo=spacy&logoColor=0096FF" alt="Spacy" />
-<img src="https://img.shields.io/badge/Sklearn-CED4DA?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Sklearn" />
-<img src="https://img.shields.io/badge/SonarQube-CED4DA?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
-<img src="https://img.shields.io/badge/SonarCloud-CED4DA?style=for-the-badge&logo=sonarcloud&logoColor=3702A" alt="SonarCloud" />
-<img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
-<img src="https://img.shields.io/badge/Slack-CED4DA?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" /> 
-<img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
-<img src="https://img.shields.io/badge/Canva-CED4DA?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" /> 
-<img src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853" alt="Google Sheets" /> 
-<img src="https://img.shields.io/badge/Google%20Slides-CED4DA?style=for-the-badge&logo=google-slides&logoColor=FBBC04" alt="Google Slides" /> 
-    
+|               Modalidade                |                                                Repositório web                                                |                                               Repositório back                                                |                                                Repositório nlp                                                |
+| :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| Blocker, Critical, Major e Minor Issues |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|                  Bugs                   |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|               Code Smells               |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|             Vulnerabilities             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|             Security Review             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
+|          Duplicidade de Código          |                                                     0.0%                                                      |                                                     0.0%                                                      |                                                     0.0%                                                      |
+|              Quality Gate               | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> |
+
+</div>
+
+**Estratégias de correção:** [inserir estratégias]
+
+<details>
+<summary>Imagens do resumo das análises do repositório web</summary>
+
+[inserir imagens]
+
+<!-- ![sonarqube web quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/13a57cbd-7d9d-48f6-979c-91de96ad56a5)
+![sonarqube web findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/1e18698d-c683-4471-9e18-327012e3555a)
+![sonarqube web duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b23f5a1c-9a62-4484-9049-5eac8fb26ebb) -->
+
+</details>
+
+<details>
+<summary>Imagens do resumo das análises do repositório backend</summary>
+
+[inserir imagens]
+
+<!-- ![sonarqube back quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/aa986733-34d5-426d-b226-3124f71a9669)
+![sonarqube back findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c901297b-d013-4bc7-a174-c1959556de14)
+![sonarqube back duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/170f0a75-a40d-4b00-bb8d-96fa28fca891) -->
+
+</details>
+
+<details>
+<summary>Imagens do resumo das análises do repositório NLP</summary>
+
+[inserir imagens]
+
+<!-- ![sonarqube nlp quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b87ce4b2-3fd6-4d0a-b817-b33283041378)
+![sonarqube nlp findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/0e9d4bca-8754-437b-a6aa-404fe82e503b)
+![sonarqube nlp duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c5d76b0f-05b9-4f43-908f-7554a17687cc) -->
+
+</details>
+
 → [Voltar ao topo](#topo)
 
-<br />
+<span id="links">
 
-<span id="equipe">
+<br/>
+    
+## :link: Links úteis
 
-## :busts_in_silhouette: Equipe
-
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Gabriel Camargo Leite                 |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-leite) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)      |
-| Scrum Master  | Isabelle Dias Ribeiro Silva           |            [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drisabelles) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/drisabelles)             |
-|   Dev Team    | Giovana Thaís de Oliveira Silva       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)           |
-|   Dev Team    | João Marcos Oliveira Santos           |             [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcoso/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-|   Dev Team    | Maria Gabriela Garcia dos Santos Reis |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)      |
-|   Dev Team    | Thiago Henrique Ferreira              | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ThHenrique) |
+- Tags geradas em cada repositório que simbolizam o fim da 1ª sprint:
+  - Repositório da aplicação: [clique aqui para acessar "mood-hound-web"](https://github.com/The-Bugger-Ducks/mood-hound-web)
+  - Repositório da API: [clique aqui para acessar "mood-hound-back"](https://github.com/The-Bugger-Ducks/mood-hound-back)
+  - Repositório de PLN: [clique aqui para acessar "mood-hound-nlp"](https://github.com/The-Bugger-Ducks/mood-hound-nlp)
 
 → [Voltar ao topo](#topo)
