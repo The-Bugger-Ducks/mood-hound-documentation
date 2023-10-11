@@ -1,6 +1,6 @@
 <span id="topo">
 
-![mood hound header sprint 1](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8ee60896-5d07-4367-9583-f0d65b6c1f13)
+![mood hound header sprint 2](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/e5188155-320e-4cd6-bf54-7fe80e95ac92)
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a>  &nbsp |&nbsp &nbsp
