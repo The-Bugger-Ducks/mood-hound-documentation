@@ -61,9 +61,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
     
 <div align="center">
 
-[inserir gráfico do burndown]
-
-<!-- <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/97e96bb5-aa59-497a-b439-f3e045dab9f5" alt="Gráfico Burndown" /> -->
+![mood hound sprint 2 burndown](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/0a9b6fef-b65c-4b42-b3c1-7ef96323a047)
 
 </div>
 
