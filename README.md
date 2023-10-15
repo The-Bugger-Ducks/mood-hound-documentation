@@ -10,7 +10,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Nesta sprint tivemos os desenvolvimentos das “frentes” back e web focados em poder demonstrar de forma dinâmica e objetiva, com gráficos e tabelas, as informações da base de dados que foram processadas pela equipe. No processamento de linguagem natural os dados que anteriormente foram pré-processados agora foram processados de forma a que a análise de sentimentos dos clientes para com os produtos (negativo, positivo e neutro) fossem realizadas a partir do conteúdo dos comentários e não mais a partir da classificação em estrelas.
+Nesta sprint tivemos os desenvolvimentos das “frentes” back e web focados em permitir a visualização de forma dinâmica e objetiva, com gráficos e tabelas, as informações da base de dados que foram processadas pela equipe. No processamento de linguagem natural, os dados que anteriormente levavam em consideração as "estrelas" da avaliação agora são processados utilizando a análise de sentimentos dos clientes para com os produtos (negativo ou positivo) a partir do conteúdo dos comentários.
 
 <br />
 
@@ -31,15 +31,13 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ## 📲 Entregas
 Para as entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/mood-hound-documentation#backlogs).
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para uma aplicação em React e com as devidas integrações das funcionalidades acordadas para esta sprint.
-
 ### RF 03: Análise de sentimentos
     
-A análise de sentimentos é um processo em que o texto dos comentários é analisado para determinar se o tom emocional da mensagem é positivo, negativo ou neutro. Para realizarmos essa análise, iniciamos os procedimentos com a separação das amostras das *reviews* feitas pelos clientes para o treinamento do modelo, em seguida foi efetuada a classificação manual das amostras para que o treinamento fosse realizado. Após a separação e a classificação, foi iniciada a criação do modelo de classificação (utilizando KNN) e o treinamento desse modelo para que fosse possível serem trazidas informações sobre acurácia, precisão e matriz de confusão; e então podemos integrar essa análise de sentimentos na pipeline responsável pela captação dos resultados entregues para o sistema.
+A análise de sentimentos é um processo em que o texto dos comentários é analisado para determinar se o tom emocional da mensagem é positivo ou negativo. Para realizar essa análise, inicia-se o procedimento com a separação das amostras das reviews feitas pelos clientes para o treinamento do modelo, em seguida foi efetuada a classificação manual dessas amostras para que haja um treinamento controlado. Após a separação e a classificação, o modelo de classificação foi criado (inicialmente utilizando KNN) e foi feito seu treinamento, coletando também informações sobre sua acurácia, precisão e gerada uma matriz de confusão. Por fim, o modelo foi integrado na pipeline e atualizado com nova quantidade de dados (ao todo 10 mil reviews positivas e 10 mil negativas, onde apenas aqui é utilizado a informação das estrelas da avaliação).
 
 ### RF 04: Dashboard
 
-A dashboard consiste em um painel visual que fornece informações rápidas sobre os principais indicadores de métricas de um objetivo ou processo. Para nossa dashboard, trouxemos como complemento ao motor de busca já existente, gráficos que revelam dados relevantes sobre as reviews realizadas pelos clientes. Foram desenvolvidas queries pelo backend para captação dos dados necessários para os gráficos, gráficos estes que foram desenvolvidos para que fosse possível observar a incidência emocional de comentários (positivos, negativos ou neutros) em cada estado brasileiro, uma tabela demonstrativa dos temas mais comentados pelos cliente e gráfico de linhas que mostra a evolução emocional dos temas mais discutidos em comentários para com o tempo decorrido entre as reviews.
+A dashboard consiste em um painel visual que fornece informações rápidas sobre os principais indicadores de métricas de um objetivo ou processo. Para nossa dashboard, trouxemos como complemento ao motor de busca já existente, gráficos que revelam dados relevantes sobre as reviews realizadas pelos clientes. Foram desenvolvidas queries pelo backend para captação dos dados necessários para os gráficos, gráficos estes que foram desenvolvidos para que fosse possível observar a incidência emocional de comentários (positivos ou negativos) em cada estado brasileiro, uma tabela demonstrativa dos temas mais comentados pelos cliente e gráfico de linhas que mostra a evolução emocional dos temas mais discutidos em comentários para com o tempo decorrido entre as reviews.
 
 ### RNF 08: Documentação no GitHub
 
@@ -56,7 +54,7 @@ Este requisito não funcional se trata da utilização de Typescript e Python, q
 <span id="metricas">
     
 ## :chart_with_upwards_trend: Métricas do time
-Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp" teve como foco o processamento dos dados disponibilizados, bem como sua classificação e armazenamento no banco, enquanto que a "frente backend" se ocupou com tarefas acerca de autenticação, autorização e CRUD de usuários, além de, claro, manipulação dos comentários previamente classificados no banco. Já a "frente web" ficou responsável pela integração de tais funcionalidades.  
+Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp" teve como foco o início da aplicação da análise de sentimentos nos dados disponibilizados, enquanto que as frentes de backend e frontend se prontificaram ao desenvolvimento da dashboard com diversos gráficos e filtragens. 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
