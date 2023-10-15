@@ -10,7 +10,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Nesta sprint tivemos os desenvolvimentos das “frentes” back e web focados em poder demonstrar de forma dinâmica e objetiva, com gráficos e tabelas, as informações da base de dados que foram processadas pela equipe. No processamento de linguagem natural os dados que anteriormente foram pré-processados agora foram processados de forma a que as análises emocionais para com os produtos (negativo, positivo e neutro) fossem realizadas a partir do conteúdo dos comentários e não mais a partir da classificação em estrelas.
+Nesta sprint tivemos os desenvolvimentos das “frentes” back e web focados em poder demonstrar de forma dinâmica e objetiva, com gráficos e tabelas, as informações da base de dados que foram processadas pela equipe. No processamento de linguagem natural os dados que anteriormente foram pré-processados agora foram processados de forma a que a análise de sentimentos dos clientes para com os produtos (negativo, positivo e neutro) fossem realizadas a partir do conteúdo dos comentários e não mais a partir da classificação em estrelas.
 
 <br />
 
