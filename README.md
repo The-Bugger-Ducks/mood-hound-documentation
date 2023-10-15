@@ -128,7 +128,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
     
 ## :link: Links úteis
 
-- Tags geradas em cada repositório que simbolizam o fim da 1ª sprint:
+- Tags geradas em cada repositório que simbolizam o fim da 2ª sprint:
   - Repositório da aplicação: [clique aqui para acessar "mood-hound-web"](https://github.com/The-Bugger-Ducks/mood-hound-web)
   - Repositório da API: [clique aqui para acessar "mood-hound-back"](https://github.com/The-Bugger-Ducks/mood-hound-back)
   - Repositório de PLN: [clique aqui para acessar "mood-hound-nlp"](https://github.com/The-Bugger-Ducks/mood-hound-nlp)
