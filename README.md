@@ -10,7 +10,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-[inserir objetivo da sprint]
+Nesta sprint tivemos os desenvolvimentos das “frentes” back e web focados em poder demonstrar de forma dinâmica e objetiva, com gráficos e tabelas, as informações da base de dados que foram processadas pela equipe. No processamento de linguagem natural os dados que anteriormente foram pré-processados agora foram processados de forma a que as análises emocionais para com os produtos (negativo, positivo e neutro) fossem realizadas a partir do conteúdo dos comentários e não mais a partir da classificação em estrelas.
 
 <br />
 
@@ -39,7 +39,7 @@ A análise de sentimentos é um processo em que o texto dos comentários é anal
 
 ### RF 04: Dashboard
 
-[inserir descrição da atividade]
+A dashboard consiste em um painel visual que fornece informações rápidas sobre os principais indicadores de métricas de um objetivo ou processo. Para nossa dashboard, trouxemos como complemento ao motor de busca já existente, gráficos que revelam dados relevantes sobre as reviews realizadas pelos clientes. Foram desenvolvidas queries pelo backend para captação dos dados necessários para os gráficos, gráficos estes que foram desenvolvidos para que fosse possível observar a incidência emocional de comentários (positivos, negativos ou neutros) em cada estado brasileiro, uma tabela demonstrativa dos temas mais comentados pelos cliente e gráfico de linhas que mostra a evolução emocional dos temas mais discutidos em comentários para com o tempo decorrido entre as reviews.
 
 ### RNF 08: Documentação no GitHub
 
