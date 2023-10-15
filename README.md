@@ -60,8 +60,8 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
-
-![mood hound sprint 2 burndown](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/0a9b6fef-b65c-4b42-b3c1-7ef96323a047)
+    
+![mood hound sprint 2 burndown](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/f8e1e51d-f821-4c98-9640-3b45225f8a39)
 
 </div>
 
