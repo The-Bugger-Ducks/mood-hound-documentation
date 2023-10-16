@@ -32,8 +32,8 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 24/09/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-01)|
-| 02 | 15/10/2023 | 🏗️ Em desenvolvimento | Em breve |
-| 03 | 05/11/2023 | 🛑 Não iniciado | Em breve |
+| 02 | 15/10/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-02) |
+| 03 | 05/11/2023 | 🏗️ Em desenvolvimento | Em breve |
 | 04 | 26/11/2023 | 🛑 Não iniciado | Em breve |
 
 → [Voltar ao topo](#topo)
