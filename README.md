@@ -85,7 +85,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 
 </div>
 
-**Estratégias de correção:** Para solucionar as adversidades encontradas nas análises estáticas dos códigos desenvolvidos, na terceira sprint teremos atividades de refatoração na qual, além de trabalharmos para corrigir os *code smells* e encontrar uma solução para o bug presente, observaremos os pontos nos quais mais aconteceram as duplicações de códigos e encontraremos uma maneira de tornar o código em questão algo mais sucinto e "reutilizável" para as finalidades que são desejadas. A cobertura de testes unitários começou a ser implementada com sucesso nessa segunda sprint, e continuará a ser implementada na próxima sprint.
+**Estratégias de correção:** Para solucionar as adversidades encontradas nas análises estáticas dos códigos desenvolvidos, na terceira sprint teremos atividades de refatoração na qual, além de trabalharmos para corrigir os *code smells* e encontrar uma solução para o bug presente, observaremos os pontos nos quais mais aconteceram as duplicações de códigos e encontraremos uma maneira de tornar o código em questão algo mais sucinto e "reutilizável" para as finalidades que são desejadas. A cobertura de testes unitários começou a ser implementada nessa segunda sprint e continuará a ser implementada na próxima sprint.
 
 <details>
 <summary>Imagem do resumo das análises do repositório web</summary>
@@ -104,7 +104,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <details>
 <summary>Imagem do resumo das análises do repositório NLP</summary>
 
-
+![mood hound sonar sprint 2 nlp](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/1c92776c-b8b6-4534-aa10-516e7184e4c9)
 
 </details>
 
