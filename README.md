@@ -1,6 +1,6 @@
 <span id="topo">
 
-![mood hound header sprint 2](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/e5188155-320e-4cd6-bf54-7fe80e95ac92)
+![mood hound header sprint 3](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/6b59b4fd-d5d9-4d6b-ab09-f90791c75c2e)
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a>  &nbsp |&nbsp &nbsp
@@ -33,7 +33,7 @@ Para as entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog d
 
 Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/mood-hound-documentation).
 
-### RNF 09: Utilzação de Typescript e Python
+### RNF 09: Utilização de Typescript e Python
 
 Este requisito não funcional se trata da utilização de Typescript e Python, que foi satisfeito ainda nesta sprint, dado que tanto no servidor, feito com Node, foi utilizado o Typescript quanto na aplicação web, feita com React. Python foi utilizado para as práticas de processamento de linguagem natural, em especial, com o uso das bibliotecas Pandas e NLTK.
 
