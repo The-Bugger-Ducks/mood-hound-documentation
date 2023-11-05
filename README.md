@@ -10,7 +10,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-[inserir descrição da sprint]
+Essa sprint apesar de ter apenas um épico como seu foco principal de desenvolvimento, teve também (mediante feedbacks dos clientes e análises de melhorias) seu foco dividido entre a melhoria da análise de sentimentos e refazer o frontend da nossa aplicação. As “frentes” backend e frontend se dispuseram novamente a trabalhar com a apresentação das informações em gráficos dinâmicos de acordo com os dados processados, trazendo novos gráficos sobre dados dos clientes também.  A “frente” nlp trabalhou com a modificação do modelo que previamente estava sendo utilizado para um novo, disponibilizando mais assertividade vinda dos dados disponibilizados pelo processamento de linguagem natural, trazendo também métricas que demonstram o monitoramento do desempenho do código executado.
 
 <br />
 
@@ -19,6 +19,7 @@
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 
+- :heavy_check_mark: **RF 11:** Monitoramento de desempenho
 - :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das entregas
 - :heavy_check_mark: **RNF 09:** Utilização de Typescript e Python
 
@@ -28,6 +29,10 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
         
 ## 📲 Entregas
 Para as entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/mood-hound-documentation#backlogs).
+
+### RF 11: Monitoramento de desempenho
+
+[inserir descrição da atividade]
 
 ### RNF 08: Documentação no GitHub
 
@@ -44,12 +49,12 @@ Este requisito não funcional se trata da utilização de Typescript e Python, q
 <span id="metricas">
     
 ## :chart_with_upwards_trend: Métricas do time
-[inserir descrição] 
+Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp" teve como foco o início da aplicação da análise de sentimentos nos dados disponibilizados utilizando um novo modelo e monitoramento do desempenho. Enquanto isso, as “frentes” backend e frontend se prontificaram a refazer o desenvolvimento da dashboard com diversos gráficos mais intuitivos e filtragens.
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
     
-[inserir imagens]
+<img width="353" alt="mood hound sprint 3 burndown" src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/fabe4784-e9d4-42f9-9677-c1dd1817a435">
 
 </div>
 
