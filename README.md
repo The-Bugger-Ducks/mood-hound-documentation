@@ -45,9 +45,9 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 ## :dart: Backlogs, Épicos & User Stories
 
 <div align="center">
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c5e076ff-a484-4371-922b-dd16dc8a721e" alt="PRODUCT BACKLOG" /> 
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/d39243a0-4a16-4f1d-ba34-e5b54f6f8c3f" alt="SPRINT BACKLOG" /> 
-   <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/ec0fe387-2ea3-4166-b8e9-03c803eaf07a" alt="USER STORIES" />
+    <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c5e076ff-a484-4371-922b-dd16dc8a721e" alt="PRODUCT BACKLOG" /> 
+    <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/e15f4621-b22f-4061-a106-e67e7cb812dc" alt="SPRINTS BAKCLOG" />    
+    <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/eff650ad-b9c2-47bd-8eab-1f8f50f01042" alt="USER STORIES" />
 </div>
 
 → [Voltar ao topo](#topo)
