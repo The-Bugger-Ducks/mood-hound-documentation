@@ -68,15 +68,15 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 
 <div align="center">
 
-|               Modalidade                |                                                Repositório web                                                |                                               Repositório back                                                |                                                Repositório nlp                                                |
-| :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| Blocker, Critical, Major e Minor Issues |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|                  Bugs                   |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|               Code Smells               |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|             Vulnerabilities             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|             Security Review             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|          Duplicidade de Código          |                                                     0.0%                                                      |                                                     0.0%                                                      |                                                     0.0%                                                      |
-|              Quality Gate               | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> |
+|Modalidade                               | Repositório web| Repositório back|  Repositório nlp |
+| :-------------------------------------: | :------------: | :-------------: | :--------------: |
+| Blocker, Critical, Major e Minor Issues |       0        |        0        |        0         |
+|                  Bugs                   |       0        |        1        |        0         |
+|               Code Smells               |       18       |        0        |        0         |
+|             Vulnerabilities             |       0        |        0        |        0         |
+|             Security Review             |       0        |        0        |        0         |
+|          Duplicidade de Código          |      16.2%     |       2.4%      |       0.0%       |
+|              Quality Gate               | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> |
 
 </div>
 
@@ -85,14 +85,14 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <details>
 <summary>Imagem do resumo das análises do repositório web</summary>
 
-[inserir imagens]
+![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/04d7bf4f-9c60-4fe2-ad9b-1167243f29ff)
 
 </details>
 
 <details>
 <summary>Imagem do resumo das análises do repositório backend</summary>
 
-[inserir imagens]
+![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/540ba527-0228-4dbb-8a49-9d185c77b424)
 
 </details>
 
