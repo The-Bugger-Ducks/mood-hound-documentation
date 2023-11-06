@@ -32,7 +32,7 @@ Para as entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog d
 
 ### RF 11: Monitoramento de desempenho
 
-[inserir descrição da atividade]
+O requisito de monitoramento de desempenho diz respeito à mensuração do desempenho da atividade da aplicação na realização de suas estratégias e na obtenção dos resultados planejados. Para ser feito esse monitoramento foi realizado uma análise de métricas, onde foi realizada uma conversão das colunas de uma matriz de confusão e sua junção em um objeto com a acurácia e a precisão. Nesse mesmo objeto foi adicionado o tempo de execução da pipeline utilizando a nova lib com uma função para atualizar a colection no banco de dados. 
 
 ### RNF 08: Documentação no GitHub
 
