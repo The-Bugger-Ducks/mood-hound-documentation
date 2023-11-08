@@ -72,11 +72,11 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 | :-------------------------------------: | :------------: | :-------------: | :--------------: |
 | Blocker, Critical, Major e Minor Issues |       0        |        0        |        0         |
 |                  Bugs                   |       0        |        1        |        0         |
-|               Code Smells               |       18       |        0        |        11        |
+|               Code Smells               |       18       |        0        |        13        |
 |             Vulnerabilities             |       0        |        0        |        0         |
 |             Security Review             |       0        |        0        |        0         |
 |          Duplicidade de Código          |      16.2%     |       2.4%      |       0.0%       |
-|              Quality Gate               | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> |
+|              Quality Gate               | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> |
 
 </div>
 
@@ -99,7 +99,7 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <details>
 <summary>Imagem do resumo das análises do repositório NLP</summary>
 
-![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/064221d6-3925-40cd-87d8-c039812635fa)
+![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/9a7cd631-5f3b-4723-be89-4967640b82d6)
 
 </details>
 
