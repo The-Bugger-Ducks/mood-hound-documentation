@@ -54,7 +54,7 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
     
 <div align="center">
     
-<img width="353" alt="mood hound sprint 3 burndown" src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/fabe4784-e9d4-42f9-9677-c1dd1817a435">
+<img alt="mood hound sprint 3 burndown" src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/fabe4784-e9d4-42f9-9677-c1dd1817a435">
 
 </div>
 
@@ -72,7 +72,7 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 | :-------------------------------------: | :------------: | :-------------: | :--------------: |
 | Blocker, Critical, Major e Minor Issues |       0        |        0        |        0         |
 |                  Bugs                   |       0        |        1        |        0         |
-|               Code Smells               |       18       |        0        |        0         |
+|               Code Smells               |       18       |        0        |        11        |
 |             Vulnerabilities             |       0        |        0        |        0         |
 |             Security Review             |       0        |        0        |        0         |
 |          Duplicidade de Código          |      16.2%     |       2.4%      |       0.0%       |
@@ -80,7 +80,7 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 
 </div>
 
-**Estratégias de correção:** [inserir estratégias de correção]
+**Estratégias de correção:** As estratégias de correção dos problemas encontrados nessa sprint consistem em trabalhar para resolver e evitar as duplicações de código e os code smells que apareceram ao longo dos desenvolvimentos, assim como também aumentar o coverage existente ao mergear as demais branchs de desenvolvimento a main.
 
 <details>
 <summary>Imagem do resumo das análises do repositório web</summary>
@@ -99,7 +99,7 @@ Nessa sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <details>
 <summary>Imagem do resumo das análises do repositório NLP</summary>
 
-[inserir imagens]
+![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/064221d6-3925-40cd-87d8-c039812635fa)
 
 </details>
 
