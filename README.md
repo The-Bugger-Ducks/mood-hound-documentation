@@ -1,6 +1,6 @@
 <span id="topo">
 
-![mood hound header sprint 1](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/8ee60896-5d07-4367-9583-f0d65b6c1f13)
+![mood hound header sprint 4](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/e4b4528c-9b28-4fe5-a5fe-9c8728dfad35)
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a>  &nbsp |&nbsp &nbsp
@@ -19,8 +19,7 @@
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 
-- :heavy_check_mark: **RF 03:** Análise de sentimentos
-- :heavy_check_mark: **RF 03:** Dashboard
+- :heavy_check_mark: **RF 07:** Autenticação e Autorização
 - :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das entregas
 - :heavy_check_mark: **RNF 09:** Utilização de Typescript e Python
 
@@ -33,11 +32,7 @@ Para as entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog d
 
 Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para uma aplicação em React e com as devidas integrações das funcionalidades acordadas para esta sprint.
 
-### RF 03: Análise de sentimentos
-
-[inserir descrição da atividade]
-
-### RF 04: Dashboard
+### RF 07: Autenticação e Autorização
 
 [inserir descrição da atividade]
 
@@ -63,8 +58,6 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 
 [inserir gráfico do burndown]
 
-<!-- <img src="https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/97e96bb5-aa59-497a-b439-f3e045dab9f5" alt="Gráfico Burndown" /> -->
-
 </div>
 
 → [Voltar ao topo](#topo)
@@ -77,50 +70,38 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 
 <div align="center">
 
-|               Modalidade                |                                                Repositório web                                                |                                               Repositório back                                                |                                                Repositório nlp                                                |
-| :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| Blocker, Critical, Major e Minor Issues |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|                  Bugs                   |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|               Code Smells               |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|             Vulnerabilities             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|             Security Review             |                                                       0                                                       |                                                       0                                                       |                                                       0                                                       |
-|          Duplicidade de Código          |                                                     0.0%                                                      |                                                     0.0%                                                      |                                                     0.0%                                                      |
-|              Quality Gate               | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> |
+|               Modalidade                |                                                Repositório web                                                 |                                                Repositório back                                                |                                                Repositório nlp                                                 |
+| :-------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| Blocker, Critical, Major e Minor Issues |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
+|                  Bugs                   |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
+|               Code Smells               |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
+|             Vulnerabilities             |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
+|             Security Review             |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
+|          Duplicidade de Código          |                                                      0.0%                                                      |                                                      0.0%                                                      |                                                      0.0%                                                      |
+|              Quality Gate               | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> |
 
 </div>
 
 **Estratégias de correção:** [inserir estratégias]
 
 <details>
-<summary>Imagens do resumo das análises do repositório web</summary>
+<summary>Imagem do resumo das análises do repositório web</summary>
 
-[inserir imagens]
-
-<!-- ![sonarqube web quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/13a57cbd-7d9d-48f6-979c-91de96ad56a5)
-![sonarqube web findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/1e18698d-c683-4471-9e18-327012e3555a)
-![sonarqube web duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b23f5a1c-9a62-4484-9049-5eac8fb26ebb) -->
+[inserir imagem]
 
 </details>
 
 <details>
-<summary>Imagens do resumo das análises do repositório backend</summary>
+<summary>Imagem do resumo das análises do repositório backend</summary>
 
-[inserir imagens]
-
-<!-- ![sonarqube back quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/aa986733-34d5-426d-b226-3124f71a9669)
-![sonarqube back findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c901297b-d013-4bc7-a174-c1959556de14)
-![sonarqube back duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/170f0a75-a40d-4b00-bb8d-96fa28fca891) -->
+[inserir imagem]
 
 </details>
 
 <details>
-<summary>Imagens do resumo das análises do repositório NLP</summary>
+<summary>Imagem do resumo das análises do repositório NLP</summary>
 
-[inserir imagens]
-
-<!-- ![sonarqube nlp quality gate](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/b87ce4b2-3fd6-4d0a-b817-b33283041378)
-![sonarqube nlp findings](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/0e9d4bca-8754-437b-a6aa-404fe82e503b)
-![sonarqube nlp duplications](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/c5d76b0f-05b9-4f43-908f-7554a17687cc) -->
+[inserir imagem]
 
 </details>
 
@@ -132,7 +113,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
     
 ## :link: Links úteis
 
-- Tags geradas em cada repositório que simbolizam o fim da 1ª sprint:
+- Tags geradas em cada repositório que simbolizam o fim da 4ª sprint:
   - Repositório da aplicação: [clique aqui para acessar "mood-hound-web"](https://github.com/The-Bugger-Ducks/mood-hound-web)
   - Repositório da API: [clique aqui para acessar "mood-hound-back"](https://github.com/The-Bugger-Ducks/mood-hound-back)
   - Repositório de PLN: [clique aqui para acessar "mood-hound-nlp"](https://github.com/The-Bugger-Ducks/mood-hound-nlp)
