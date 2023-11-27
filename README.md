@@ -20,7 +20,7 @@ A partir da apresentação do desafio enfrentado pelo parceiro acadêmico, foi d
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos._
 
-:pushpin: Status do Projeto: **Em desenvolvimento** 🏗️
+:pushpin: Status do Projeto: **Concluído** ✔️
 
 <br />
 
@@ -34,7 +34,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 01 | 24/09/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-01)|
 | 02 | 15/10/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-02) |
 | 03 | 05/11/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-03) |
-| 04 | 26/11/2023 | 🏗️ Em desenvolvimento | Em breve |
+| 04 | 26/11/2023 | ✔️ Concluída | [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/tree/sprint-04) |
 
 → [Voltar ao topo](#topo)
 
