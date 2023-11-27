@@ -10,7 +10,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-[inserir objetivo da sprint]
+A sprint teve como atividade principal o desenvolvimento de autorizações e autenticações de usuários, assim como também realizar as melhorias que foram levantadas ao longo do fechamento da sprint passada. A "frente" nlp esteve focada em viabilizar o processamento de toda a base de dados disponibilizada, melhorar a qualidade do código desenvolvido e trazer logs e alertas de desempenho. As "frentes" backend e frontend tiveram seus desenvolvimentos com foco voltado à interface de demonstração do desempenho da aplicação a ser exibida na dashboard.
 
 <br />
 
@@ -34,13 +34,13 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
 ### RF 07: Autenticação e Autorização
 
-[inserir descrição da atividade]
+Autenticação é o ato de verificar a veracidade de um usuário que realiza seu login na aplicação e autorização é a forma com a qual são realizadas as permissões de acesso aos usuários. Durante essa sprint foi realizada a separação de visualização dos usuários entre "Gestor" e "Operador" através de uma regra inserida no frontend, onde o "Gestor" pode realizar acessos a dashboard, busca e informações do sistema; já o "Operador" realiza apenas buscas. 
 
 ### RNF 08: Documentação no GitHub
 
 Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/mood-hound-documentation).
 
-### RNF 09: Utilzação de Typescript e Python
+### RNF 09: Utilização de Typescript e Python
 
 Este requisito não funcional se trata da utilização de Typescript e Python, que foi satisfeito ainda nesta sprint, dado que tanto no servidor, feito com Node, foi utilizado o Typescript quanto na aplicação web, feita com React. Python foi utilizado para as práticas de processamento de linguagem natural, em especial, com o uso das bibliotecas Pandas e NLTK.
 
@@ -51,12 +51,12 @@ Este requisito não funcional se trata da utilização de Typescript e Python, q
 <span id="metricas">
     
 ## :chart_with_upwards_trend: Métricas do time
-Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp" teve como foco o processamento dos dados disponibilizados, bem como sua classificação e armazenamento no banco, enquanto que a "frente backend" se ocupou com tarefas acerca de autenticação, autorização e CRUD de usuários, além de, claro, manipulação dos comentários previamente classificados no banco. Já a "frente web" ficou responsável pela integração de tais funcionalidades.  
+Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp" teve como foco a melhoria dos códigos, logs e alertas de desempenho e processamento da base de dados completa. A "frente backend" se ocupou com tarefas acerca dos retornos de informações a serem exibidas na aba de "sistema" da dashboard, assim como a "frente web" ficou pela demonstração em gráficos das informações obtidas pelo backend.  
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
 
-[inserir gráfico do burndown]
+![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/519d186d-3287-4f5a-ae9f-1a708bdd1c5e)
 
 </div>
 
