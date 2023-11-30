@@ -56,7 +56,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
     
 <div align="center">
 
-![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/519d186d-3287-4f5a-ae9f-1a708bdd1c5e)
+![burndown sprint 4](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/35f03c64-c803-4739-91d2-d339ab196f1b)
 
 </div>
 
