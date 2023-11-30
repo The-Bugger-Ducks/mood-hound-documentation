@@ -74,11 +74,11 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 | :-------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 | Blocker, Critical, Major e Minor Issues |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
 |                  Bugs                   |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
-|               Code Smells               |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
+|               Code Smells               |                                                       17                                                        |                                                       0                                                        |                                                       3                                                        |
 |             Vulnerabilities             |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
 |             Security Review             |                                                       0                                                        |                                                       0                                                        |                                                       0                                                        |
-|          Duplicidade de Código          |                                                      0.0%                                                      |                                                      0.0%                                                      |                                                      0.0%                                                      |
-|              Quality Gate               | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> |
+|          Duplicidade de Código          |                                                      17.7%                                                      |                                                      0.0%                                                      |                                                      0.0%                                                      |
+|              Quality Gate               | <img src="https://img.shields.io/badge/Failed-FECDCA?style=for-the-badge&logoColor=white" alt="Failed Badge"> | <img src="https://img.shields.io/badge/Waiting-FFFFFF?style=for-the-badge&logoColor=white" alt="Waiting Badge"> | <img src="https://img.shields.io/badge/Passed-25D366?style=for-the-badge&logoColor=white" alt="Passed Badge"> |
 
 </div>
 
@@ -87,7 +87,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <details>
 <summary>Imagem do resumo das análises do repositório web</summary>
 
-[inserir imagem]
+![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/d9a7f0d2-4e9d-47bf-943f-8f7460c5e7c7)
 
 </details>
 
@@ -101,7 +101,7 @@ Nesta sprint o time se dividiu entre frontend, backend e nlp, onde a "frente nlp
 <details>
 <summary>Imagem do resumo das análises do repositório NLP</summary>
 
-[inserir imagem]
+![image](https://github.com/The-Bugger-Ducks/mood-hound-documentation/assets/79321198/262072a4-af41-4de5-9156-33487de136fd)
 
 </details>
 
